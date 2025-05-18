@@ -1,6 +1,6 @@
 # Trial2Vec Demo: README
 
-This repository demonstrates the use of the Trial2Vec model for evaluation on sample data (`demo_data`). The final implementation is provided in `DL_project_driver_final.ipynb`.
+This repository demonstrates the use of the enhancement of Trial2Vec model for evaluation on sample data (`demo_data`). The final implementation is provided in `DL_project_driver_final.ipynb`.
 
 ## 🔧 Setup Instructions
 
@@ -56,7 +56,6 @@ Proposed A	1.0000	1.0000	1.0000	0.7818	0.8545	0.7810	0.9266
 To perform a sanity check on Trial2Vec embeddings, run the sanity.py script:
 
 bash
-Always show details
 
 Copy
 python sanity.py
