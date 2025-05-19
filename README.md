@@ -39,7 +39,7 @@ pip install -e .  # install Trial2Vec in editable mode
 4. (Optional) Force CPU Mode
 If running without GPU, you can enforce CPU usage before importing torch or related libraries.
 
-🚀 Running the Final Notebook
+Running the Final Notebook
 Open DL_project_driver_final.ipynb
 
 Execute all cells under the #Main section
@@ -52,7 +52,7 @@ SBERT	0.6700	0.8000	0.6700	0.5455	0.6870	0.7812	0.8016
 Trial2Vec	1.0000	1.0000	1.0000	0.7818	0.8545	0.9812	1.0000
 Proposed A	1.0000	1.0000	1.0000	0.7818	0.8545	0.7810	0.9266
 
-🧪 Sanity Check with Trial2Vec Embeddings
+Sanity Check with Trial2Vec Embeddings
 To perform a sanity check on Trial2Vec embeddings, run the sanity.py script:
 
 bash
