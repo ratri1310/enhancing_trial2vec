@@ -60,3 +60,8 @@ bash
 Copy
 python sanity.py
 """
+
+📌 Acknowledgements
+This project builds upon the [Trial2Vec repository](https://github.com/RyanWangZf/Trial2Vec) by [Ryan Wang](https://github.com/RyanWangZf).  
+We adapted core modules from the [`trial2vec` directory](https://github.com/RyanWangZf/Trial2Vec/tree/main/trial2vec) for our contrastive learning experiments.
+
